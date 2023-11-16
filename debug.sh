@@ -1,0 +1,1 @@
+docker run --platform linux/amd64 -it --entrypoint /bin/sh caldremch/android-signer:latest
